@@ -1,2 +1,3 @@
 # LZJTableViewHeaderAnimation
 some animation about tableViewHeader
+一些关于tableView头部与尾部的动画效果，已封装成自定义类，引用非常简单
