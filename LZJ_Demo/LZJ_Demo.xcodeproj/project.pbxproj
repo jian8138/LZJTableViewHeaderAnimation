@@ -1,0 +1,386 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8E1A966B1E2512AD009C2B14 /* LZJAnimationIconViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1A96641E2512AD009C2B14 /* LZJAnimationIconViewController.m */; };
+		8E1A966C1E2512AD009C2B14 /* LZJHideBarOnSwipeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1A96661E2512AD009C2B14 /* LZJHideBarOnSwipeTableViewController.m */; };
+		8E1A966D1E2512AD009C2B14 /* LZJMultipleHeaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1A96681E2512AD009C2B14 /* LZJMultipleHeaderViewController.m */; };
+		8E1A966E1E2512AD009C2B14 /* LZJPullDownTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E1A966A1E2512AD009C2B14 /* LZJPullDownTableViewController.m */; };
+		8E3A1F201E152CFD00471919 /* TestAnimationIcon.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E3A1F1F1E152CFD00471919 /* TestAnimationIcon.m */; };
+		8E5C94731E12A0A800F55BCA /* TestLZJMultipleHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E5C94721E12A0A800F55BCA /* TestLZJMultipleHeaderView.m */; };
+		8EC910BF1E0BFD7F002C0BDB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC910BE1E0BFD7F002C0BDB /* main.m */; };
+		8EC910C21E0BFD80002C0BDB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC910C11E0BFD80002C0BDB /* AppDelegate.m */; };
+		8EC910C51E0BFD80002C0BDB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC910C41E0BFD80002C0BDB /* ViewController.m */; };
+		8EC910C81E0BFD80002C0BDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EC910C61E0BFD80002C0BDB /* Main.storyboard */; };
+		8EC910CA1E0BFD80002C0BDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EC910C91E0BFD80002C0BDB /* Assets.xcassets */; };
+		8EC910CD1E0BFD80002C0BDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EC910CB1E0BFD80002C0BDB /* LaunchScreen.storyboard */; };
+		8EC910E51E0C0724002C0BDB /* TestLZJPullDown.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC910E41E0C0724002C0BDB /* TestLZJPullDown.m */; };
+		8EC910EB1E0C0B1F002C0BDB /* TestLZJHideBarOnSwipe.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC910EA1E0C0B1F002C0BDB /* TestLZJHideBarOnSwipe.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8E1A96631E2512AD009C2B14 /* LZJAnimationIconViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LZJAnimationIconViewController.h; sourceTree = "<group>"; };
+		8E1A96641E2512AD009C2B14 /* LZJAnimationIconViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LZJAnimationIconViewController.m; sourceTree = "<group>"; };
+		8E1A96651E2512AD009C2B14 /* LZJHideBarOnSwipeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LZJHideBarOnSwipeTableViewController.h; sourceTree = "<group>"; };
+		8E1A96661E2512AD009C2B14 /* LZJHideBarOnSwipeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LZJHideBarOnSwipeTableViewController.m; sourceTree = "<group>"; };
+		8E1A96671E2512AD009C2B14 /* LZJMultipleHeaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LZJMultipleHeaderViewController.h; sourceTree = "<group>"; };
+		8E1A96681E2512AD009C2B14 /* LZJMultipleHeaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LZJMultipleHeaderViewController.m; sourceTree = "<group>"; };
+		8E1A96691E2512AD009C2B14 /* LZJPullDownTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LZJPullDownTableViewController.h; sourceTree = "<group>"; };
+		8E1A966A1E2512AD009C2B14 /* LZJPullDownTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LZJPullDownTableViewController.m; sourceTree = "<group>"; };
+		8E3A1F1E1E152CFD00471919 /* TestAnimationIcon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestAnimationIcon.h; sourceTree = "<group>"; };
+		8E3A1F1F1E152CFD00471919 /* TestAnimationIcon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestAnimationIcon.m; sourceTree = "<group>"; };
+		8E5C94711E12A0A800F55BCA /* TestLZJMultipleHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestLZJMultipleHeaderView.h; sourceTree = "<group>"; };
+		8E5C94721E12A0A800F55BCA /* TestLZJMultipleHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestLZJMultipleHeaderView.m; sourceTree = "<group>"; };
+		8EC910BA1E0BFD7F002C0BDB /* LZJ_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LZJ_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EC910BE1E0BFD7F002C0BDB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8EC910C01E0BFD7F002C0BDB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8EC910C11E0BFD80002C0BDB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8EC910C31E0BFD80002C0BDB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		8EC910C41E0BFD80002C0BDB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8EC910C71E0BFD80002C0BDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8EC910C91E0BFD80002C0BDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8EC910CC1E0BFD80002C0BDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8EC910CE1E0BFD80002C0BDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EC910E31E0C0724002C0BDB /* TestLZJPullDown.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestLZJPullDown.h; sourceTree = "<group>"; };
+		8EC910E41E0C0724002C0BDB /* TestLZJPullDown.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestLZJPullDown.m; sourceTree = "<group>"; };
+		8EC910E91E0C0B1F002C0BDB /* TestLZJHideBarOnSwipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestLZJHideBarOnSwipe.h; sourceTree = "<group>"; };
+		8EC910EA1E0C0B1F002C0BDB /* TestLZJHideBarOnSwipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestLZJHideBarOnSwipe.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8EC910B71E0BFD7F002C0BDB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8E1A96621E2512AD009C2B14 /* LZJSourceFile */ = {
+			isa = PBXGroup;
+			children = (
+				8E1A96631E2512AD009C2B14 /* LZJAnimationIconViewController.h */,
+				8E1A96641E2512AD009C2B14 /* LZJAnimationIconViewController.m */,
+				8E1A96651E2512AD009C2B14 /* LZJHideBarOnSwipeTableViewController.h */,
+				8E1A96661E2512AD009C2B14 /* LZJHideBarOnSwipeTableViewController.m */,
+				8E1A96671E2512AD009C2B14 /* LZJMultipleHeaderViewController.h */,
+				8E1A96681E2512AD009C2B14 /* LZJMultipleHeaderViewController.m */,
+				8E1A96691E2512AD009C2B14 /* LZJPullDownTableViewController.h */,
+				8E1A966A1E2512AD009C2B14 /* LZJPullDownTableViewController.m */,
+			);
+			path = LZJSourceFile;
+			sourceTree = "<group>";
+		};
+		8EC910B11E0BFD7F002C0BDB = {
+			isa = PBXGroup;
+			children = (
+				8EC910BC1E0BFD7F002C0BDB /* LZJ_Demo */,
+				8EC910BB1E0BFD7F002C0BDB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8EC910BB1E0BFD7F002C0BDB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8EC910BA1E0BFD7F002C0BDB /* LZJ_Demo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8EC910BC1E0BFD7F002C0BDB /* LZJ_Demo */ = {
+			isa = PBXGroup;
+			children = (
+				8E1A96621E2512AD009C2B14 /* LZJSourceFile */,
+				8EC910E21E0C06EC002C0BDB /* 测试VC */,
+				8EC910C01E0BFD7F002C0BDB /* AppDelegate.h */,
+				8EC910C11E0BFD80002C0BDB /* AppDelegate.m */,
+				8EC910C31E0BFD80002C0BDB /* ViewController.h */,
+				8EC910C41E0BFD80002C0BDB /* ViewController.m */,
+				8EC910C61E0BFD80002C0BDB /* Main.storyboard */,
+				8EC910C91E0BFD80002C0BDB /* Assets.xcassets */,
+				8EC910CB1E0BFD80002C0BDB /* LaunchScreen.storyboard */,
+				8EC910CE1E0BFD80002C0BDB /* Info.plist */,
+				8EC910BD1E0BFD7F002C0BDB /* Supporting Files */,
+			);
+			path = LZJ_Demo;
+			sourceTree = "<group>";
+		};
+		8EC910BD1E0BFD7F002C0BDB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8EC910BE1E0BFD7F002C0BDB /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8EC910E21E0C06EC002C0BDB /* 测试VC */ = {
+			isa = PBXGroup;
+			children = (
+				8EC910E31E0C0724002C0BDB /* TestLZJPullDown.h */,
+				8EC910E41E0C0724002C0BDB /* TestLZJPullDown.m */,
+				8EC910E91E0C0B1F002C0BDB /* TestLZJHideBarOnSwipe.h */,
+				8EC910EA1E0C0B1F002C0BDB /* TestLZJHideBarOnSwipe.m */,
+				8E5C94711E12A0A800F55BCA /* TestLZJMultipleHeaderView.h */,
+				8E5C94721E12A0A800F55BCA /* TestLZJMultipleHeaderView.m */,
+				8E3A1F1E1E152CFD00471919 /* TestAnimationIcon.h */,
+				8E3A1F1F1E152CFD00471919 /* TestAnimationIcon.m */,
+			);
+			name = "测试VC";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8EC910B91E0BFD7F002C0BDB /* LZJ_Demo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8EC910D11E0BFD80002C0BDB /* Build configuration list for PBXNativeTarget "LZJ_Demo" */;
+			buildPhases = (
+				8EC910B61E0BFD7F002C0BDB /* Sources */,
+				8EC910B71E0BFD7F002C0BDB /* Frameworks */,
+				8EC910B81E0BFD7F002C0BDB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LZJ_Demo;
+			productName = LZJ_Demo;
+			productReference = 8EC910BA1E0BFD7F002C0BDB /* LZJ_Demo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8EC910B21E0BFD7F002C0BDB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = tarena;
+				TargetAttributes = {
+					8EC910B91E0BFD7F002C0BDB = {
+						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 665NHH3E56;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 8EC910B51E0BFD7F002C0BDB /* Build configuration list for PBXProject "LZJ_Demo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8EC910B11E0BFD7F002C0BDB;
+			productRefGroup = 8EC910BB1E0BFD7F002C0BDB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8EC910B91E0BFD7F002C0BDB /* LZJ_Demo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8EC910B81E0BFD7F002C0BDB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8EC910CD1E0BFD80002C0BDB /* LaunchScreen.storyboard in Resources */,
+				8EC910CA1E0BFD80002C0BDB /* Assets.xcassets in Resources */,
+				8EC910C81E0BFD80002C0BDB /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8EC910B61E0BFD7F002C0BDB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8EC910C51E0BFD80002C0BDB /* ViewController.m in Sources */,
+				8E1A966E1E2512AD009C2B14 /* LZJPullDownTableViewController.m in Sources */,
+				8EC910E51E0C0724002C0BDB /* TestLZJPullDown.m in Sources */,
+				8E1A966D1E2512AD009C2B14 /* LZJMultipleHeaderViewController.m in Sources */,
+				8E1A966B1E2512AD009C2B14 /* LZJAnimationIconViewController.m in Sources */,
+				8EC910C21E0BFD80002C0BDB /* AppDelegate.m in Sources */,
+				8EC910EB1E0C0B1F002C0BDB /* TestLZJHideBarOnSwipe.m in Sources */,
+				8E3A1F201E152CFD00471919 /* TestAnimationIcon.m in Sources */,
+				8EC910BF1E0BFD7F002C0BDB /* main.m in Sources */,
+				8E1A966C1E2512AD009C2B14 /* LZJHideBarOnSwipeTableViewController.m in Sources */,
+				8E5C94731E12A0A800F55BCA /* TestLZJMultipleHeaderView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8EC910C61E0BFD80002C0BDB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8EC910C71E0BFD80002C0BDB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8EC910CB1E0BFD80002C0BDB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8EC910CC1E0BFD80002C0BDB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8EC910CF1E0BFD80002C0BDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8EC910D01E0BFD80002C0BDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8EC910D21E0BFD80002C0BDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 665NHH3E56;
+				INFOPLIST_FILE = LZJ_Demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tarena.LZJ-Demo";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8EC910D31E0BFD80002C0BDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 665NHH3E56;
+				INFOPLIST_FILE = LZJ_Demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tarena.LZJ-Demo";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8EC910B51E0BFD7F002C0BDB /* Build configuration list for PBXProject "LZJ_Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8EC910CF1E0BFD80002C0BDB /* Debug */,
+				8EC910D01E0BFD80002C0BDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8EC910D11E0BFD80002C0BDB /* Build configuration list for PBXNativeTarget "LZJ_Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8EC910D21E0BFD80002C0BDB /* Debug */,
+				8EC910D31E0BFD80002C0BDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8EC910B21E0BFD7F002C0BDB /* Project object */;
+}
